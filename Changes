@@ -1,0 +1,7 @@
+Revision history for Perl extension PCX::Loader
+
+0.50  Tue Aug 22 23:50:31 2000
+        - Original version; created by Josiah Bryan
+        - I simply re-packaged from the PCX code in
+          AI::NeuralNet::BackProp and added POD docs.
+
